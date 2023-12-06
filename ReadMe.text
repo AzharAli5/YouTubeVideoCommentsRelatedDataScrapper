@@ -1,0 +1,19 @@
+1. You Need to Install Supported Libraries
+pip install pandas
+pip install googleapiclient
+2. Get Your YouTube API from Google Cloud Credentials and Insert 
+3. Insert Your Input File Name
+4. Insert YouTube Video Ids Column Name
+5. This Script will Fetch:
+ReplyCount,
+LikeCount,
+PublishTime,
+AuthorName,
+Text,AuthorChannelID,
+AuthorChannelURL,
+RepliedChannelID,
+RepliedChannelName
+Respectfully.
+Created by @AzharAli5
+
+ 
